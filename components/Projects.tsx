@@ -14,11 +14,11 @@ import { IoIosLink, IoLogoGithub } from "react-icons/io";
 const Projects = () => {
 
   const ProjectData = [
-    { name: 'Youtube Clone', img: Youtube, description: 'Youtube clone using React, Material UI and Rapid API', liveLink: 'https://beast-media-lokesh.netlify.app/', GitHubLink: 'https://github.com/Lokesh9307' },
-    { name: 'Todo List', img: Todo, description: 'Todo List using React, Material UI using localhost storage', liveLink: 'https://todoapp-lokii.netlify.app/', GitHubLink: 'https://github.com/Lokesh9307' },
-    { name: 'Fitness App', img: Fitness, description: 'Fitness Apk using React, Material UI and Rapid API', liveLink: 'https://stayfit-n-strong.netlify.app/', GitHubLink: 'https://github.com/Lokesh9307' },
+    { name: 'Youtube Clone', img: Youtube, description: 'Youtube clone using React, Material UI and Rapid API', liveLink: 'https://beast-media-lokesh.netlify.app/', GitHubLink: 'https://github.com/Lokesh9307/youtube-clone' },
+    { name: 'Todo List', img: Todo, description: 'Todo List using React, Material UI using localhost storage', liveLink: 'https://todoapp-lokii.netlify.app/', GitHubLink: 'https://github.com/Lokesh9307/Todo-App' },
+    { name: 'Fitness App', img: Fitness, description: 'Fitness Apk using React, Material UI and Rapid API', liveLink: 'https://stayfit-n-strong.netlify.app/', GitHubLink: 'https://github.com/Lokesh9307/Fitness-App' },
     { name: 'Calculator', img: Calculator, description: 'Calculator using HTML, CSS, JavaScript', liveLink: 'https://simple-calculator-lokii.netlify.app/', GitHubLink: 'https://github.com/Lokesh9307' },
-    { name: 'Travel App UI', img: Travel, description: 'Travel App UI design using NextJs , Tailwind CSS ', liveLink: 'https://hilink-travelapp.netlify.app/', GitHubLink: 'https://github.com/Lokesh9307' },
+    { name: 'Travel App UI', img: Travel, description: 'Travel App UI design using NextJs , Tailwind CSS ', liveLink: 'https://hilink-travelapp.netlify.app/', GitHubLink: 'https://github.com/Lokesh9307/TravelApp-UI' },
   ]
 
 
