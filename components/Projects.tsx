@@ -39,8 +39,8 @@ const Projects = () => {
                 </div>
                 <hr />
                 <div className='flex justify-around'>
-                  <Link href={item.liveLink} target='blank'><span className='text-2xl'><IoIosLink/></span></Link>
-                  <Link href={item.GitHubLink}><span className='text-2xl'><IoLogoGithub/></span></Link>
+                  <Link  href={item.liveLink} target='blank'><span className='text-2xl'><IoIosLink/></span></Link>
+                  <Link  href={item.GitHubLink} target='blank'><span className='text-2xl'><IoLogoGithub/></span></Link>
                 </div>
               </div>
             </div>
